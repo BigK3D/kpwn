@@ -1,1 +1,32 @@
 Mario faces for pwnagotchi
+_________________________________
+Create folder 'custom-faces' in root
+Create folder named 'Mario' inside
+  - adding folder within allows separation of custom face sets
+Place files inside, and edit config.toml
+_________________________________
+ui.faces.look_r = "/custom-faces/Mario/LOOK_R.png"
+ui.faces.look_l = "/custom-faces/Mario/LOOK_L.png"
+ui.faces.look_r_happy = "/custom-faces/Mario/LOOK_R_HAPPY.png"
+ui.faces.look_l_happy = "/custom-faces/Mario/LOOK_L_HAPPY.png"
+ui.faces.sleep = "/custom-faces/Mario/SLEEP.png"
+ui.faces.sleep2 = "/custom-faces/Mario/SLEEP2.png"
+ui.faces.awake = "/custom-faces/Mario/AWAKE.png"
+ui.faces.bored = "/custom-faces/Mario/BORED.png"
+ui.faces.intense = "/custom-faces/Mario/INTENSE.png"
+ui.faces.cool = "/custom-faces/Mario/COOL.png"
+ui.faces.happy = "/custom-faces/Mario/HAPPY.png"
+ui.faces.excited = "/custom-faces/Mario/EXCITED.png"
+ui.faces.grateful = "/custom-faces/Mario/GRATEFUL.png"
+ui.faces.motivated = "/custom-faces/Mario/MOTIVATED.png"
+ui.faces.demotivated = "/custom-faces/Mario/DEMOTIVATED.png"
+ui.faces.smart = "/custom-faces/Mario/SMART.png"
+ui.faces.lonely = "/custom-faces/Mario/LONELY.png"
+ui.faces.sad = "/custom-faces/Mario/SAD.png"
+ui.faces.angry = "/custom-faces/Mario/ANGRY.png"
+ui.faces.friend = "/custom-faces/Mario/FRIEND.png"
+ui.faces.broken = "/custom-faces/Mario/BROKEN.png"
+ui.faces.debug = "/custom-faces/Mario/DEBUG.png"
+ui.faces.upload = "/custom-faces/Mario/UPLOAD.png"
+ui.faces.upload1 = "/custom-faces/Mario/UPLOAD1.png"
+ui.faces.upload2 = "/custom-faces/Mario/UPLOAD2.png"
