@@ -30,3 +30,6 @@ ui.faces.debug = "/custom-faces/Mario/DEBUG.png"
 ui.faces.upload = "/custom-faces/Mario/UPLOAD.png"
 ui.faces.upload1 = "/custom-faces/Mario/UPLOAD1.png"
 ui.faces.upload2 = "/custom-faces/Mario/UPLOAD2.png"
+ui.faces.png = true
+ui.faces.position_x = 0
+ui.faces.position_y = 34
