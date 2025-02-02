@@ -4,7 +4,7 @@ Create folder 'custom-faces' in root
 Create folder named 'Mario' inside
   - adding folder within allows separation of custom face sets
 Place files inside, and edit config.toml
-
+---------------------------
 for resized images -
 
 image heights are set at 90 pixels.
