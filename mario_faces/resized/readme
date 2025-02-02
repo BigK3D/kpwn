@@ -1,2 +1,9 @@
 90 pixels.
-need to move pwnagotchi name & disable exp
+need to move pwnagotchi name via /home/pi/.pwn/lib/python3.11/site-packages/pwnagotchi/ui/hw
+  - choose the .py for your screen and change coordinates for "name"
+
+disable/move EXP to leave left side of screen clear
+
+set ui.faces.position in config.toml
+   x = 0 
+   y = approx 16
