@@ -4,6 +4,20 @@ Create folder 'custom-faces' in root
 Create folder named 'Mario' inside
   - adding folder within allows separation of custom face sets
 Place files inside, and edit config.toml
+
+for resized images -
+
+image heights are set at 90 pixels.
+
+1) you will need to move the pwnagotchi name via /home/pi/.pwn/lib/python3.11/site-packages/pwnagotchi/ui/hw
+  - choose the .py for your screen and change coordinates for "name"
+
+2) disable/move EXP to leave left side of screen clear
+
+3) set ui.faces.position in config.toml
+   x = 0 
+   y = approx 16
+
 _________________________________
 ui.faces.look_r = "/custom-faces/Mario/LOOK_R.png"
 ui.faces.look_l = "/custom-faces/Mario/LOOK_L.png"
